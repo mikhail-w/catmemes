@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "lato", sans-serif;
+  background-color: #fafafa;
+}
+
+.card {
+  border: 3px solid black;
+  margin: 2rem;
+  height: 2rem;
+}
